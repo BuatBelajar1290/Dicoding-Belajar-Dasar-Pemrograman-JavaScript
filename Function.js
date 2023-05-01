@@ -45,7 +45,7 @@ console.log(minimal(1, 4)); // output: 1
 console.log(minimal(3, 2)); // output: 2
 console.log(minimal(3, 3)); // output: 3
 
-// Test Function findIndex
+// Test Function findIndex || mencari lokasi si number ada di index atau urutan ke berapa
 console.log(findIndex([1, 2, 3, 4, 5], 3)); // output: 2
 console.log(findIndex([1, 2, 3, 4, 5], 6)); // output: -1
 console.log(findIndex([1, 2, 3, 4, 5], 5)); // output: 4
